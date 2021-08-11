@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.Closed {
+  background-color: #f4d5d5;
+  text-align: center;
+}
+.Opened {
+  background-color: #cdeac4;
+  text-align: center;
+}
